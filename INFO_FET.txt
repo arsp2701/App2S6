@@ -1,0 +1,9 @@
+Informations about the MOSFET transistors:
+
+DMC3021LK4-N : 
+
+Vgsth = 1.8V
+
+DMC3021LK4-P : 
+
+Vgsth = 1.9V
