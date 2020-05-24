@@ -1,0 +1,26 @@
+Informations about the BJT transistors:
+
+2N3904 : 
+
+Va_min = 95
+Va_max = 100
+
+Vce_min = 400mV
+Vce_max = 600mV
+
+Beta = 300
+
+Polarisation current = 5.4mA
+
+2N3906 : 
+
+Va_min = 95
+Va_max = 105
+
+Vce_min = 400mV
+Vce_max = 600mV
+
+Beta = 200
+
+
+Polarisation current = 5.4mA
