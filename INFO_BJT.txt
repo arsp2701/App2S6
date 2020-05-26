@@ -5,6 +5,9 @@ Informations about the BJT transistors:
 Va_min = 95
 Va_max = 100
 
+ro_min = 
+ro_max =
+
 Vce_min = 400mV
 Vce_max = 600mV
 
@@ -22,5 +25,7 @@ Vce_max = 600mV
 
 Beta = 200
 
+ro_min = 
+ro_max =
 
 Polarisation current = 5.4mA
